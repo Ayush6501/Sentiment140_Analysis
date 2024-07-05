@@ -1,4 +1,6 @@
 # Sentiment Analysis of Tweets with Emoticons
+## Paper Link
+Paper: [Link](https://link.springer.com/chapter/10.1007/978-3-031-24848-1_15)
 ## Abstract
 Social networking services allow users to communicate with their friends and exchange ideas, photos, and videos that delineate their feelings. Sentiments are emotions that express a person’s 
 attitude, feelings, and worldview. This raises the possibility of analyzing individual moods and emotions in social network data in order to learn more about people’s inclinations and 
